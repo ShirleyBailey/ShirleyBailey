@@ -1,57 +1,53 @@
 # Shirley Bailey
 
-Full-Stack Engineer focused on building scalable, production-grade systems.
+Senior Full-Stack Engineer.
 
-I design balanced architectures across the stack — from complex frontend interfaces to backend services and system boundaries — with performance, clarity, and long-term maintainability in mind.
+I build scalable web systems with clear architecture and predictable behavior.
+Focused on performance, maintainability, and strong separation of concerns.
 
-Experienced in developing and maintaining systems operating at product scale.
-
-Currently open to remote opportunities, primarily with Russia-based teams.
-
----
-
-## ⚙️ Technical Expertise
-
-### Frontend Engineering
-- React / Next.js
-- TypeScript
-- Scalable component architecture
-- Advanced state management (Zustand, Redux Toolkit)
-- Rendering performance & optimization strategies
-- Design systems & UI structure
-
-### Backend Engineering
-- Node.js (NestJS / Express)
-- RESTful API architecture & contract design
-- PostgreSQL & relational data modeling
-- Authentication & authorization patterns
-- Modular service-layer architecture
-- Integration & boundary design
-
-### Systems & Infrastructure
-- Docker
-- CI/CD pipelines
-- Deployment workflows & environment configuration
-- API integration strategies
+Currently open to remote opportunities.
 
 ---
 
-## 🧠 Engineering Philosophy
+## Tech Stack
 
-- Systems should scale without architectural rewrites
-- Code should be extensible, predictable, and deliberate
-- Clear boundaries reduce long-term complexity
-- Engineering decisions should support product growth
+Frontend  
+React, Next.js, TypeScript, Vue, JavaScript  
+Architecture-driven UI development  
+State management (Zustand, Redux Toolkit)  
+Performance optimization & rendering strategies  
+
+Backend  
+Node.js (NestJS, Express) , PHP (Laravel, Yii2), Python 
+REST API & service-layer architecture  
+PostgreSQL (schema design, indexing, query optimization)  
+Authentication & authorization (JWT, RBAC)  
+Data validation & structured error handling  
+
+Infrastructure  
+Docker  
+CI/CD pipelines  
+Environment configuration  
+External API integrations  
 
 ---
 
-## What You’ll Find Here
+## Approach
 
-- Structured, production-oriented repositories
-- Clear architectural decisions
-- Real-world patterns over tutorial examples
-- Code written with longevity in mind
+- Design systems that scale without rewriting core architecture  
+- Keep boundaries explicit between UI, business logic, and data layers  
+- Prefer simplicity over unnecessary abstractions  
+- Write predictable, production-grade code  
+
+---
+
+## Repositories
+
+Production-oriented projects with clear architecture,
+real-world constraints, and maintainable structure.
+
+---
 
 ## Contact
 
-- GitHub: https://github.com/ShirleyBailey
+Telegram: @shirley1002
