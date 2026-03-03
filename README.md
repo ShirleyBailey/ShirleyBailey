@@ -28,13 +28,6 @@ Deployment & containerized environments
 
 ---
 
-## Repositories
-
-Production-oriented projects with clear architecture,
-real-world constraints, and maintainable structure.
-
----
-
 ## Contact
 
 Telegram: @shirley1002
