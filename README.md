@@ -9,26 +9,13 @@ Currently open to remote opportunities.
 
 ---
 
-## Tech Stack
+## Core Capabilities
 
-Frontend  
-React, Next.js, TypeScript, Vue, JavaScript  
-Architecture-driven UI development  
-State management (Zustand, Redux Toolkit)  
-Performance optimization & rendering strategies  
-
-Backend  
-Node.js (NestJS, Express) , PHP (Laravel, Yii2), Python 
-REST API & service-layer architecture  
-PostgreSQL (schema design, indexing, query optimization)  
-Authentication & authorization (JWT, RBAC)  
-Data validation & structured error handling  
-
-Infrastructure  
-Docker  
-CI/CD pipelines  
-Environment configuration  
-External API integrations  
+Frontend architecture (React, Next.js, TypeScript, Vue, JavaScript)  
+Backend services & API design (Node.js, PHP, Python, PostgreSQL)  
+Authentication & authorization flows  
+Relational data modeling & query optimization  
+Deployment & containerized environments
 
 ---
 
