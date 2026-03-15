@@ -13,7 +13,6 @@ Currently open to remote opportunities.
 
 Frontend architecture (React, Next.js, TypeScript, Vue, JavaScript)  
 Backend services & API design (Node.js, PHP, Python, Java)
-Database (PostgreSQL, MySQL, MongoDB, Redis)
 Authentication & authorization flows  
 Relational data modeling & query optimization  
 Deployment & containerized environments
