@@ -12,7 +12,7 @@ Currently open to remote opportunities.
 ## Core Capabilities
 
 Frontend architecture (React, Next.js, TypeScript, Vue, JavaScript)  
-Backend services & API design (Node.js, PHP, Python, Java)
+Backend services & API design (Node.js, PHP, Python, Java)  
 Authentication & authorization flows  
 Relational data modeling & query optimization  
 Deployment & containerized environments
