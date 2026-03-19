@@ -26,9 +26,3 @@ Deployment & containerized environments
 - Keep boundaries explicit between UI, business logic, and data layers  
 - Prefer simplicity over unnecessary abstractions  
 - Write predictable, production-grade code  
-
----
-
-## Contact
-
-Telegram: @shirley1112
