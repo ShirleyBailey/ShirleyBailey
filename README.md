@@ -1,6 +1,6 @@
 # Shirley Bailey
 
-Senior Full-Stack Engineer.
+Full-Stack Engineer.
 
 I build scalable web systems with clear architecture and predictable behavior.
 Focused on performance, maintainability, and strong separation of concerns.
